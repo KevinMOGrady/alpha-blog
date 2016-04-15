@@ -40,24 +40,9 @@ $navbar-default-bg: black;
   background-color: black;
 }
 
-footer {
-  margin-top: 45px;
-  padding-top: 5px;
+.article-meta-details {
   border-top: 1px solid #eaeaea;
-  color: #777;
-}
-
-footer a:hover {
-  color: #222;
-}
-
-footer small {
-  float: left;
-}
-
-footer ul {
-  float: right;
-  list-style: none;
+  margin-top: 15px;
 }
 
 .article-actions {
@@ -78,6 +63,26 @@ footer ul {
   border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer a:hover {
+  color: #222;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
 }
 
 footer ul li{
